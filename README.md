@@ -1,1 +1,1 @@
-# NUMBER-DIGITS-RECOGNITION-USING-AN-NEURAL-NETWORKS
+# NUMBER-DIGITS-RECOGNITION-USING-AN-NEURAL-NETWORKS,train the model using an mnist datasets ,flattening an 2D pixel to  train in keras sequential. By 128 convolutional layers to get an prediction closer to  the actual value,compile the model to minimize the loss and get the accuracy of our model perfomance. visualize using matplotlib library
